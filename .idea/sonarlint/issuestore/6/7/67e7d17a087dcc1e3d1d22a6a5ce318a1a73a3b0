@@ -1,0 +1,15 @@
+
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(›â†ğúÿÿÿÿ
+g
+java:S1104"QMake tytul a static final constant or non-public and provide accessors if needed.(çéƒË
+r
+java:S1104	"WMake adresStrony a static final constant or non-public and provide accessors if needed.(å©›–ıÿÿÿÿ
+p
+java:S1104
+"UMake szerokosc a static final constant or non-public and provide accessors if needed.(”²¡Ûşÿÿÿÿ
+o
+java:S1104"TMake wysokosc a static final constant or non-public and provide accessors if needed.(„½†Ìıÿÿÿÿ
+v
+java:S1104"[Make adresMiniaturki a static final constant or non-public and provide accessors if needed.(ˆµ™±úÿÿÿÿ
+m
+java:S1104"XMake adresGrafiki a static final constant or non-public and provide accessors if needed.(î²4
